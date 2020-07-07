@@ -40,6 +40,7 @@ ControlSignals = {
 
 ltn_stop_entity_names = { -- ltn stop entity.name with I/O entity offset away from tracks in tiles
   ["logistic-train-stop"] = 0,
+  ["electric-logistic-train-stop"] = 0,
   ["ltn-port"] = 1,
 }
 
